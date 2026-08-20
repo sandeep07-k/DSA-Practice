@@ -7,7 +7,7 @@ public class PQ2 {
 
         System.out.print("Enter Your Name: ");
         String name = input.nextLine();
-        System.out.println("Good Morning,"+ name+ ".");
+        System.out.println("Good Morning !! "+ name+ ".");
 
 
     }
