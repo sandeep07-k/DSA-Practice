@@ -18,8 +18,6 @@ public class PQ3 {
             
         }
         System.out.print("....");
-        
-        
 
 
     }
