@@ -18,7 +18,7 @@ public class factors {
             }
         }
 
-        // The number itself is always a factor
+        // The number itself is always a factors
         System.out.println(num);
     }
 
